@@ -1,4 +1,5 @@
 {
+	"storage-driver": "devicemapper",
 	"log-driver": "syslog",
 	"log-opts": {
 		"syslog-address": "udp://127.0.0.1:514"
